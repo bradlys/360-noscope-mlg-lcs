@@ -1,7 +1,7 @@
 360-noscope-MLG-LCS
 ===================
 
-Longest Common Subsequence implementation in C using O(M+N) space and O(M*N*log(N)) time  
+Longest Common Subsequence implementation in C using O(M+N) space
 Takes input from standard in and prints the solution to standard out.  
 Input should be this format:  
 N M  
