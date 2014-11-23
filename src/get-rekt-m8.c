@@ -128,7 +128,7 @@ void findLCS(long long int * A, int Abegin, int Aend, long long int * B, int Bbe
  * Approx Runtime: O(M*N*log(N+M))
  * Approx Space: O(M+N)
  * Approx rekt: O(MLG)
- * Approx chance of hiring manger taking this lightly: 0%
+ * Approx chance of hiring manager taking this lightly: 0%
  */
 int main() {
     int n = 0; int m = 0;
