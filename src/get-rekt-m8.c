@@ -70,7 +70,7 @@ int getLCSLength(long long int * A, int Abegin, int Aend, long long int * B, int
  * Prints the longest common subsequence of two
  * long long int arrays to standard out. Easily
  * modified to return it in an array instead.
- * Approximate runtime: O(M*N*(M+N))
+ * Approximate runtime: O(M*N)
  * Approximate space: O(M+N)
  * 
  */
@@ -135,7 +135,7 @@ void findLCS(long long int * A, int Abegin, int Aend, long long int * B, int Bbe
  * ever ask for?
  * 
  * Not including constant factors:
- * Approx Runtime: O(M*N*(M+N))
+ * Approx Runtime: O(M*N)
  * Approx Space: O(M+N)
  * Approx rekt: O(MLG)
  * Approx chance of hiring manager taking this lightly: 0%
