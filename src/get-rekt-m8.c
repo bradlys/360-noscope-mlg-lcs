@@ -21,7 +21,7 @@ int getLCSLength(long long int * A, int Abegin, int Aend, long long int * B, int
     if(Alen == 0 || Blen == 0){
         return 0;
     }
-    long long int * newA = A;
+	long long int * newA = A;
 	long long int * newB = B;
 	newA += Abegin;
 	newB += Bbegin;
